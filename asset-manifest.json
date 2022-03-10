@@ -1,15 +1,15 @@
 {
   "main.css": "/CRUD_APP/static/css/main.51ba0d10.chunk.css",
-  "main.js": "/CRUD_APP/static/js/main.9e9846b9.chunk.js",
-  "main.js.map": "/CRUD_APP/static/js/main.9e9846b9.chunk.js.map",
+  "main.js": "/CRUD_APP/static/js/main.001108b7.chunk.js",
+  "main.js.map": "/CRUD_APP/static/js/main.001108b7.chunk.js.map",
   "static/css/1.9dde4fe6.chunk.css": "/CRUD_APP/static/css/1.9dde4fe6.chunk.css",
-  "static/js/1.abf4f13b.chunk.js": "/CRUD_APP/static/js/1.abf4f13b.chunk.js",
-  "static/js/1.abf4f13b.chunk.js.map": "/CRUD_APP/static/js/1.abf4f13b.chunk.js.map",
+  "static/js/1.910f9ce0.chunk.js": "/CRUD_APP/static/js/1.910f9ce0.chunk.js",
+  "static/js/1.910f9ce0.chunk.js.map": "/CRUD_APP/static/js/1.910f9ce0.chunk.js.map",
   "runtime~main.js": "/CRUD_APP/static/js/runtime~main.88118d46.js",
   "runtime~main.js.map": "/CRUD_APP/static/js/runtime~main.88118d46.js.map",
   "static/css/main.51ba0d10.chunk.css.map": "/CRUD_APP/static/css/main.51ba0d10.chunk.css.map",
   "static/css/1.9dde4fe6.chunk.css.map": "/CRUD_APP/static/css/1.9dde4fe6.chunk.css.map",
   "index.html": "/CRUD_APP/index.html",
-  "precache-manifest.462c44efce99b0a2e9c966bce360f970.js": "/CRUD_APP/precache-manifest.462c44efce99b0a2e9c966bce360f970.js",
+  "precache-manifest.024f4f859a01a4f9934b5c339bbf1931.js": "/CRUD_APP/precache-manifest.024f4f859a01a4f9934b5c339bbf1931.js",
   "service-worker.js": "/CRUD_APP/service-worker.js"
 }
